@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798219386753",
+    "firebase_url": "https://myphotowarmup.firebaseio.com",
+    "project_id": "myphotowarmup",
+    "storage_bucket": "myphotowarmup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798219386753:android:9407a774874de979aa3280",
+        "android_client_info": {
+          "package_name": "com.example.myphotowarmup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798219386753-rop1gp9bsk67os92ovkc5aaiui7fr7og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0iJO7G4abbtEsoa5ECA8uOhA6FVEt7vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798219386753-rop1gp9bsk67os92ovkc5aaiui7fr7og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
